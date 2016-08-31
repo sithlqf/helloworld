@@ -6,5 +6,5 @@ using namespace cv;
 
 int main(int argc, char* argv[])
 {
-	cout << "hello world " << CV_VERISON << endl;
+	cout << "OpenCV Version " << CV_VERISON << endl;
 }
